@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿// lab_4.3.cpp
+// < Бандрівський Денис Юрійович >
+// Лабораторна робота № 4.3
+// Табуляція функції, заданої формулою: функція з параметрами
+// Варіант 1
+
+#include <iostream>
 #include <iomanip>
 #include <cmath>
 using namespace std;
